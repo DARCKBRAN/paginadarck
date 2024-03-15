@@ -1,7 +1,0 @@
-<HTML>
-<HEAD>
-<TITLE>mi pagina</TITLE>
-</HEAD>
-<BODY>
-</BODY>
-</HTML>
